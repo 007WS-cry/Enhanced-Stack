@@ -1,5 +1,5 @@
 /**
- * 文件名: enhanced_stack.cpp
+ * 文件名: enhanced_stack.hpp
  * 项目名称: enhanced_stack
  * 文件创建日期: 2025-03-25
  * 作者: 007WS
